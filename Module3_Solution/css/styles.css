@@ -1,0 +1,32 @@
+* {
+	box-sizing: border-box;
+}
+
+.navbar {
+	background-color: green;
+	box-shadow: 2px;
+}
+
+.navbar-brand { 
+	font-size: 1.6em;
+	text-align: left;
+	color: white; 
+}
+
+section {
+	background-color: pink;
+	border: 2px dashed purple;
+	padding: 1%;
+	margin-top: 20px;
+}
+
+h2 {
+	text-transform: uppercase bold;
+	color: purple;
+}
+
+#nav-list {
+	background-color: yellow;
+	color: black;
+	font-size: 1.3em;
+}
